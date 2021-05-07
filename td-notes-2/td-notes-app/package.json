@@ -37,7 +37,7 @@
     "ngx-infinite-scroll": "^0.8.3",
     "path": "^0.12.7",
     "rxjs": "^5.3.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "uuid": "^3.2.1",
     "zone.js": "^0.8.5"
   },
