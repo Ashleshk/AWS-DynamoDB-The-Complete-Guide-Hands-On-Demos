@@ -34,7 +34,7 @@
     "hbs": "^4.0.1",
     "http": "0.0.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "moment": "^2.21.0",
     "ngx-infinite-scroll": "^0.8.3",
     "path": "^0.12.7",
