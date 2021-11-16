@@ -24,7 +24,7 @@
     "@angular/platform-server": "^5.0.0",
     "@angular/router": "^5.0.0",
     "@angular/upgrade": "^5.0.0",
-    "aws-sdk": "^2.215.1",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "compression": "^1.7.2",
     "core-js": "^2.4.1",
